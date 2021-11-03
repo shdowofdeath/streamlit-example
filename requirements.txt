@@ -1,4 +1,5 @@
 altair
+av
 pandas
 streamlit
 streamlit-webrtc
